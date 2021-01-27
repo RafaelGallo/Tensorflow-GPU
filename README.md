@@ -5,5 +5,6 @@
 ![Tensor](https://github.com/RafaelGallo/Tensorflow-GPU/blob/main/IMAGE/01.gif)
 
 **Topicos**
+
 Projetos praticos com aplicação de modelos no tensorflow-gpu.
 
