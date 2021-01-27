@@ -6,7 +6,7 @@
 
 # Topicos
 
-Algebra linear com tensorflow.
+Álgebra linear com tensorflow.
 
 Grafos.
 
