@@ -29,4 +29,6 @@ Autoencoders.
 [Kaggle](https://www.kaggle.com)
 
 
+
+
 ![Tensor](https://github.com/RafaelGallo/Tensorflow-GPU/blob/main/IMAGE/01.gif)
