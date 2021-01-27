@@ -4,7 +4,7 @@
 
 
 
-**Topicos**
+# Topicos
 
 Algebra linear com tensorflow.
 
@@ -24,6 +24,9 @@ Rede Adversariais Generativas (GANs)
 
 Autoencoders.
 
+
+# Dados usado neste projeto no Kaggle
+[Kaggle](https://www.kaggle.com)
 
 
 ![Tensor](https://github.com/RafaelGallo/Tensorflow-GPU/blob/main/IMAGE/01.gif)
